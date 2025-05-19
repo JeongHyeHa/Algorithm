@@ -1,0 +1,4 @@
+﻿  FileName3.c
+C:\Users\User\source\repos\Practice_Data_Structure\Practice_Data_Structure\FileName3.c(52,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\Practice_Data_Structure\Practice_Data_Structure\FileName3.c(59,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Practice_Data_Structure.vcxproj -> C:\Users\User\source\repos\Practice_Data_Structure\x64\Debug\Practice_Data_Structure.exe
